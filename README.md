@@ -15,6 +15,6 @@ Esse codigo foi desevolvido pela,professora Clau Gonçalves para fins didatico!
 - css
 - JavaScript
 
-Aqui está link do video:https://www.youtube.com/watch?v=KxzDQtcUOnk&t=122s
+Aqui está link do video:[https://www.youtube.com/watch?v=KxzDQtcUOnk&t=122s]
 Aqui etá github:https://github.com/claudineiaga/tela-de-login-responsiva
 
